@@ -1,0 +1,20 @@
+{
+  "name": "world-sql-api",
+  "version": "1.0.0",
+  "description": "A nodeJS app that uses PostgreSQL to retrieve and add data to the local database, in order to make changes to the World Map, the Program will interact with the local database that runs in pgAdmin.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jon Avdulalhu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {}
+}
