@@ -48,6 +48,8 @@ To use this application:
 If everything was installed as mentioned above, you should be able to see the World Map and add the countries you have been to, etc.
 ```
 
+![image](https://github.com/jon-avdullahu/WorldMap-SQL-API/assets/81752726/fe394b09-f8a6-4086-9fd3-165fc6b40510)
+
 
 
 ## License
