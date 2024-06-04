@@ -1,7 +1,5 @@
-# world-sql-api
 # Interactive World Map (Using PostgreSQL)
 
-The Interactive World Map is a NodeJS application that mainly uses PostgreSQL to retrieve and add information to the local database and then send the information to the hosted server (localhost for local)
 
 
 ## Installation
